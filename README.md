@@ -8,6 +8,8 @@
 <li>Then, during Winter 2024, I got a Flipper Zero, which I used to get familiar with Sub-GHz frequencies.</li>
 <li>Seeing the interest I had in frequencies and telecommunications led me to the development of this project!</li>
 
+**ADD IMAGE OF SDR KIT
+
 
 <h2>📡Assembling the Antenna</h2>
 
