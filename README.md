@@ -15,7 +15,7 @@
 
 
 <h2>🗺️Tracking the Satellites</h2>
-
+-NOAA 19 passes directly on top of us
 
 <h2>🛰️Receiving the Signal</h2>
 
