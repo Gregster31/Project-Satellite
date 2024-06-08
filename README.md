@@ -15,7 +15,7 @@ Because the frequencies we are trying to capture are 137Mhz and right hand circu
 Article used for construction of antenna: https://qsl.net/py4zbz/DCA.pdf <br>
 ![Double Cross Antenna](https://www.dxzone.com/dx30769/double-cross-satellite-antenna.jpg)
 
-<h2>💿Setting Up the SDR</h2>
+<h3>💿Setting Up the SDR</h3>
 
 
 <h3>🗺️Tracking the Satellites</h3>
