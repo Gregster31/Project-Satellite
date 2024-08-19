@@ -17,19 +17,20 @@ Article used for construction of antenna: https://qsl.net/py4zbz/DCA.pdf <br>
 
 Step 1:  
 For the antennas, I used galvanized metal hangers. I stripped them to bare metal and cut 8 of them to 52cm. The length is very important because it will affect the frequencies you can intercept.  
-<img src="https://github.com/user-attachments/assets/1bec0462-2b62-496e-bede-df4f3bdc0a76" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/1bec0462-2b62-496e-bede-df4f3bdc0a76" style="transform: rotate(-90deg); width: 500px; height: 600px;" />
 
 Step 2:  
 I taped 2 antennas to a small piece of wood.  
-<img src="https://github.com/user-attachments/assets/6acc4e71-f2ff-4e50-bbc1-9c9d65e3a7a5" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/6acc4e71-f2ff-4e50-bbc1-9c9d65e3a7a5" style="transform: rotate(-90deg); width: 500px; height: 600px;" />
 
 Step 3:  
 I made a support for the antenna.  
-<img src="https://github.com/user-attachments/assets/65dfd295-3544-4637-bfaf-10471c833dbb" width="500" height="700" />
+<img src="https://github.com/user-attachments/assets/65dfd295-3544-4637-bfaf-10471c833dbb" style="width: 500px; height: 700px;" />
 
 Step 4:  
 Screwed all the pieces together to make the antenna.  
-<img src="https://github.com/user-attachments/assets/7e2abdcd-1df4-4fa6-b7f4-5974534d9656" width="500" height="700" />
+<img src="https://github.com/user-attachments/assets/7e2abdcd-1df4-4fa6-b7f4-5974534d9656" style="width: 500px; height: 700px;" />
+
 
 Step 5:  
 Add the coaxial cable of 50 ohms. I have to go buy some.
