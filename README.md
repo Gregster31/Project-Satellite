@@ -3,6 +3,7 @@
 <p align="center"><img src="https://github.com/Gregster31/Satellite-Project/assets/123277418/9702bb2e-7b63-49f1-a217-794bc5e0a41c" alt="project-sat"></p>
 <p align="center">Receiving and decoding telecommunications from a NOAA weather satellite into images</p>
 
+<h1> PROJECT UNDER CONSTRUCTION </h1>
 <h2>🚧Project explanation</h2>
 This project uses an homebuilt double-crossed antenna and a <a href="https://www.nooelec.com/store/sdr/sdr-receivers/nesdr-smart-sdr.html">Nooelec SDR</a> to capture frequencies from a weather satellite and convert them into readable data. This project stems from my found interest in receiving different kinds of frenquencies. I will now be showing my process.
 
